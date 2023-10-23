@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://my-protfolio-rho.vercel.app/](https://my-protfolio-rho.vercel.app/)
 
-- 💬 Ask me about **React , Next Js, Node Js, Express js, Mongo DB, Strapi, Javascript**
+- 💬 Ask me about **Html Css, Bootstrap ,Tailwind Css ,React , Strapi, Javascript**
 
 - 📫 How to reach me **thehasandev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12bktKg2xJFrW09bX8uKC9UIktRwyGq83/view?usp=share_link](https://drive.google.com/file/d/12bktKg2xJFrW09bX8uKC9UIktRwyGq83/view?usp=share_link)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
