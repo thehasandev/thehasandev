@@ -1,7 +1,8 @@
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://mizzcode.io)
 <h1 align="center" color : "">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thehasandev" alt="thehasandev" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+
+<img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 
 - 🔭 I’m currently working on **Chatting Application**
 
